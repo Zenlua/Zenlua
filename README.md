@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @Zelooooo
+- 👋 Hi, I’m @Zenlua
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 💵 Send a cup of [coffee](https://buymeacoffee.com/kakathic)
-<!---
-Zelooooo/Zelooooo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Zenlua&show_icons=true&theme=default)
